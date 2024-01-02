@@ -3,6 +3,8 @@ C'est un script en powershell qui permet de créé des fichiers, les fichiers pr
 ________________________________________________________________________________________________________________________________________________________________________
 
 Mode d'emploi: .\Job_add.ps1 -nb_job(c'est l'argument) nb-de-job(saisir le nb de jobs desiré)
-                ex: Pour la création de 16 fichiers job01,job02...
+              
+              
+              ex: Pour la création de 16 fichiers job01,job02...
                     .\Job_add.ps1 -nb_job 16
   
